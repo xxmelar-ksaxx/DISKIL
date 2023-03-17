@@ -1,2 +1,2 @@
 # DISKIL
-online chat app - self-hosted
+online voice-chat app | self-hosted
